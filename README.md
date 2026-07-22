@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,cpp,cs,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,cpp,cs,php,mysql" />
 </p>
 
 ---
