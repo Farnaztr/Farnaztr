@@ -8,15 +8,6 @@
 
 ---
 
-## - Currently Learning
-
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,cpp,cs,php,mysql" />
-</p>
-
----
 
 ## - A Thought
 
